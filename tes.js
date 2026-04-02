@@ -11,3 +11,11 @@ let nama2 = "Bang jago";
 console.log(nama);
 console.log(nama2);
 
+
+let nama = "Ahmad";
+let umur = 20;
+const kampus = "Potensi Utama";
+
+console.log(nama);
+console.log(umur);
+console.log(kampus);    
