@@ -4,3 +4,5 @@ console.log("Hallo semua");
 
 console.log("Tes Aja");
 
+let nama = "Gibran";
+console.log(nama);
